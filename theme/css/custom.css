@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
+/* $dark-green: hsl(176, 67%, 17%) */
+/*$light-green: hsl(55, 17%, 62%) */
+/*$konsta-yellow: hsl(38, 65%, 55%) */
+/*$grey-light: hsl(0, 0%, 71%) */
+/*$ primary: $dark-green */
+/* $link: $konsta-yellow  */
+/* $menu-item-color: $grey-light */
+/* $progress-bar-background-color: $konsta-yellow */
+.menu-label {
+  margin-left: 10px;
+}
