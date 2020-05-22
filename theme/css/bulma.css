@@ -5,7 +5,6 @@
 /* $link: $konsta-yellow  */
 /* $menu-item-color: $grey-light */
 /* $progress-bar-background-color: $konsta-yellow */
-/* $section-padding: 0.5rem 1.5rem */
 .menu-label {
   margin-left: 10px;
 }
@@ -9361,7 +9360,7 @@ label.panel-block:hover {
 }
 
 .section {
-  padding: 3rem 1.5rem;
+  padding: 1rem 1.5rem 3rem 1.5rem;
 }
 @media screen and (min-width: 1024px) {
   .section.is-medium {

@@ -4,77 +4,77 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2020-05-22T12:45:50-00:00</lastmod>
+<loc>https://buildingproductivity.tech/</loc>
+<lastmod>2020-05-22T17:24:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2020-05-22T12:45:50-00:00</lastmod>
+<loc>https://buildingproductivity.tech/tags.html</loc>
+<lastmod>2020-05-22T17:24:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2020-05-22T12:45:50-00:00</lastmod>
+<loc>https://buildingproductivity.tech/categories.html</loc>
+<lastmod>2020-05-22T17:24:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2020-05-22T12:45:50-00:00</lastmod>
+<loc>https://buildingproductivity.tech/authors.html</loc>
+<lastmod>2020-05-22T17:24:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2020-05-22T12:45:50-00:00</lastmod>
+<loc>https://buildingproductivity.tech/archives.html</loc>
+<lastmod>2020-05-22T17:24:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
+<loc>https://buildingproductivity.tech/pages/about.html</loc>
 <lastmod>2020-05-19T00:00:00+10:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/managing-construction-photos.html</loc>
+<loc>https://buildingproductivity.tech/managing-construction-photos.html</loc>
 <lastmod>2020-05-20T12:30:00+10:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/productivity.html</loc>
+<loc>https://buildingproductivity.tech/category/productivity.html</loc>
 <lastmod>2020-05-20T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/photos.html</loc>
+<loc>https://buildingproductivity.tech/tag/photos.html</loc>
 <lastmod>2020-05-20T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/productivity.html</loc>
+<loc>https://buildingproductivity.tech/tag/productivity.html</loc>
 <lastmod>2020-05-20T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/andrew-kim.html</loc>
+<loc>https://buildingproductivity.tech/author/andrew-kim.html</loc>
 <lastmod>2020-05-20T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
