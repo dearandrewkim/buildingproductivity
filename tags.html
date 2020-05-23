@@ -69,45 +69,52 @@
         <div class="content has-text-centered">
             <link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
 
-            <div class="email-octopus-form-wrapper">
-                <h2 class="email-octopus-heading">Join the list!</h2>
-                <p> Let me help you become more productive at work </p>
-                <p class="email-octopus-success-message"></p>
-                <p class="email-octopus-error-message"></p>
+        <div class="email-octopus-form-wrapper">
+            <h2 class="title is-4">Join the list!</h2>
+            <p> Let me help you become more productive at work </p>
+            <p class="email-octopus-success-message"></p>
+            <p class="email-octopus-error-message"></p>
 
-                <form method="post"
-                  action="https://emailoctopus.com/lists/b34847c7-9bde-11ea-a3d0-06b4694bee2a/members/embedded/1.3s/add"
-                  class="email-octopus-form"
-                  data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
-                >
-                    
-                    <div class="email-octopus-form-row">
-                        <label for="field_0">Email address</label>
-                        <input id="field_0" name="field_0" type="email" placeholder="">
-                    </div>
+            <form method="post"
+              action="https://emailoctopus.com/lists/b34847c7-9bde-11ea-a3d0-06b4694bee2a/members/embedded/1.3/add"
+              class="email-octopus-form"
+              data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
+            >
+                
+                <div class="email-octopus-form-row">
+                    <label for="field_1">First name</label>
+                    <input id="field_1" name="field_1" type="text" placeholder="">
+                </div>
 
+                <div class="email-octopus-form-row">
+                    <label for="field_0">Email address</label>
+                    <input id="field_0" name="field_0" type="email" placeholder="">
+                </div>
 
-                    
-
-                    <div class="email-octopus-form-row-hp" aria-hidden="true">
-                        <!-- Do not remove this field, otherwise you risk bot sign-ups -->
-                        <input type="text" name="hpb34847c7-9bde-11ea-a3d0-06b4694bee2a"
-                           tabindex="-1"
-                           autocomplete="nope">
-                    </div>
-
-                    <div class="email-octopus-form-row-subscribe">
-                        <input type="hidden"
-                           name="successRedirectUrl"
-                           value="">
-                        <button type="submit">Subscribe</button>
-                    </div>
-                </form>
 
                 
-            </div>
 
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+                <div class="email-octopus-form-row-hp" aria-hidden="true">
+                    <!-- Do not remove this field, otherwise you risk bot sign-ups -->
+                    <input type="text" name="hpb34847c7-9bde-11ea-a3d0-06b4694bee2a"
+                       tabindex="-1"
+                       autocomplete="nope">
+                </div>
+
+                <div class="email-octopus-form-row-subscribe">
+                    <input type="hidden"
+                       name="successRedirectUrl"
+                       value="">
+                    <button class="button is-link is-small" type="submit">Subscribe</button>
+                </div>
+            </form>
+
+            
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.4/formEmbed.js"></script>
+
             <script>
             $(document).ready(function() {
 
@@ -121,7 +128,6 @@
               });
             });
             </script>
-            <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.4/formEmbed.js"></script>
 
             <small>© Building Productivity 2020. andrew@buildingproductivity.tech</small>
         </div>
