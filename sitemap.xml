@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://buildingproductivity.tech/</loc>
-<lastmod>2020-05-28T11:26:38-00:00</lastmod>
+<lastmod>2020-06-02T16:36:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://buildingproductivity.tech/tags.html</loc>
-<lastmod>2020-05-28T11:26:38-00:00</lastmod>
+<lastmod>2020-06-02T16:36:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://buildingproductivity.tech/categories.html</loc>
-<lastmod>2020-05-28T11:26:38-00:00</lastmod>
+<lastmod>2020-06-02T16:36:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://buildingproductivity.tech/authors.html</loc>
-<lastmod>2020-05-28T11:26:38-00:00</lastmod>
+<lastmod>2020-06-02T16:36:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://buildingproductivity.tech/archives.html</loc>
-<lastmod>2020-05-28T11:26:38-00:00</lastmod>
+<lastmod>2020-06-02T16:36:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://buildingproductivity.tech/pages/about.html</loc>
 <lastmod>2020-05-19T00:00:00+10:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://buildingproductivity.tech/writing-well-as-a-project-manager.html</loc>
+<lastmod>2020-06-03T12:30:00+10:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +68,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://buildingproductivity.tech/category/productivity.html</loc>
-<lastmod>2020-05-26T12:30:00+09:40</lastmod>
+<lastmod>2020-06-03T12:30:00+09:40</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://buildingproductivity.tech/tag/writing.html</loc>
+<lastmod>2020-06-03T12:30:00+09:40</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://buildingproductivity.tech/tag/communication.html</loc>
+<lastmod>2020-06-03T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://buildingproductivity.tech/author/andrew-kim.html</loc>
-<lastmod>2020-05-26T12:30:00+09:40</lastmod>
+<lastmod>2020-06-03T12:30:00+09:40</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
