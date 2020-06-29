@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*! bulma.io v0.8.2 | MIT License | github.com/jgthms/bulma */
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;1,400&display=swap");
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap')  */
 /*$light-green: hsl(55, 17%, 62%) */
 /* $info:  */
 /* $link: $konsta-yellow  */
@@ -10,16 +11,19 @@
   margin-left: 10px;
 }
 
-body {
-  letter-spacing: -0.03em;
-}
-
+/* $letter-spacing: -0.03em */
+/* body */
+/*	letter-spacing: $letter-spacing */
 .hero-body {
   padding: 3rem 1.5rem !important;
 }
 
 .hero {
   margin: 0rem 0rem 1.5rem 0rem;
+}
+
+.content h2 {
+  font-size: 1.5em;
 }
 
 @keyframes spinAround {
@@ -36,7 +40,6 @@ body {
 .pagination-ellipsis, .breadcrumb, .file, .button, .is-unselectable, .modal-close, .delete {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
-  -ms-user-select: none;
   user-select: none;
 }
 
@@ -315,7 +318,6 @@ html {
   overflow-y: scroll;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
           text-size-adjust: 100%;
 }
 
@@ -345,7 +347,7 @@ pre {
 }
 
 body {
-  color: #202C39;
+  color: #4d565e;
   font-size: 1.2em;
   font-weight: 400;
   line-height: 1.5;
